@@ -9,3 +9,5 @@ Change the `Bundle Identifier` accordingly
 Plug your apple device and run the app
 
 Hold the device landscape or potrait and aim on a rough surface to detect. Then a grid will shown in the screen. Tap on the screen to get dice. Shaking the device will also shuffle the dice values.
+
+![grid](https://raw.githubusercontent.com/apramodya/AR-Dicee/master/AR-Dicee/images/ss.PNG)
